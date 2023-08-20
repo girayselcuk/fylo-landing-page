@@ -1,0 +1,11 @@
+.btn {
+    border: 0;
+    outline: 0;
+    border-radius: 999px;
+    color: var(--white-color);
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, var(--cyan) 1%, var(--blue) 100%);
+    padding: 12px 64px;
+    font-weight: 700;
+    width: max-content;
+}
